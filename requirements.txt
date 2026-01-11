@@ -1,0 +1,18 @@
+# App Icon Kit - 依赖库
+
+# 图像处理
+Pillow>=10.0.0
+
+# GUI界面（Python内置，无需安装）
+# tkinter
+
+# 打包工具
+PyInstaller>=6.0.0
+
+# 可选：拖拽支持
+# tkinterdnd2>=0.3.0  # 可选，可能有兼容性问题
+
+# 开发工具（可选）
+# pytest>=7.0.0      # 测试框架
+# black>=23.0.0       # 代码格式化
+# flake8>=6.0.0       # 代码检查
