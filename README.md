@@ -10,6 +10,8 @@
 
 ![App Icon Kit Interface](screenshot.png)
 
+![App Icon Kit Interface (New)](assets/Snipaste_2026-01-11_23-58-47.png)
+
 ---
 
 ## 🌟 功能特点 / Features
